@@ -9566,6 +9566,10 @@
       "name": "Mbessa"
     },
     {
+      "code": "en",
+      "name": "English"
+    },    
+    {
       "code": "ena",
       "name": "Apali"
     },
@@ -25233,6 +25237,10 @@
       "code": "scx",
       "name": "Sicel"
     },
+    {
+      "code": "sd",
+      "name": "Sindhi"
+    },    
     {
       "code": "sda",
       "name": "Toraja-Sa'dan"
